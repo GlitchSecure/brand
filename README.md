@@ -1,10 +1,12 @@
 # GlitchSecure Brand
 
-This repository contains resources for the GlitchSecure brand such as logos, icons, screenshots, color palettes, and other media.
+This repository contains resources for the GlitchSecure brand such as logos, icons, screenshots, colour palettes, and other media.
 
 ## Wordmark
 
 **Horizontal**
+
+![GlitchSecure Wordmark With background](/wordmark/wordmark-with-background.png)
 
 ![GlitchSecure Wordmark](/wordmark/wordmark.svg)
 

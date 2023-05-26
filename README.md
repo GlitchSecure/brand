@@ -33,8 +33,15 @@ This repository contains resources for the GlitchSecure brand such as logos, ico
 
 | Front | Back |
 | --- | --- |
-| ![GlitchSecure Business Card Front](/print/card-front.png) | ![GlitchSecure Business Card Back](/print/card-back.png) | 
+| ![GlitchSecure Business Card Front](/print/card-front.png) | ![GlitchSecure Business Card Back](/print/card-back.png) |
 
+### Letter Head
+
+Coming soon
+
+### Cover Page
+
+Coming soon
 
 [View more sizes](/print)
 
@@ -45,6 +52,9 @@ This repository contains resources for the GlitchSecure brand such as logos, ico
 
 ![GlitchSecure Profile Picture White Background](/social/profile-picture-whitebg.png)
 
+## Wallpaper
+
+![GlitchSecure Graph Desktop Wallpaper](/wallpapers/glitchsecure-graph.png)
 
 ## Product Screenshots
 

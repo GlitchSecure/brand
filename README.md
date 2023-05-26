@@ -27,6 +27,18 @@ This repository contains resources for the GlitchSecure brand such as logos, ico
 
 [View more sizes](/icon)
 
+## Print
+
+### Business Cards
+
+| Front | Back |
+| --- | --- |
+| ![GlitchSecure Business Card Front](/print/card-front.png) | ![GlitchSecure Business Card Back](/print/card-back.png) | 
+
+
+[View more sizes](/print)
+
+
 ## Social Media
 
 ![GlitchSecure Profile Picture Purple Background](/social/profile-picture-purplebg.png)

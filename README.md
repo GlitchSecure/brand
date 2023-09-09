@@ -6,8 +6,6 @@ This repository contains resources for the GlitchSecure brand such as logos, ico
 
 **Horizontal**
 
-![GlitchSecure Wordmark With background](/wordmark/wordmark-with-background.png)
-
 ![GlitchSecure Wordmark](/wordmark/wordmark.svg)
 
 ![GlitchSecure Wordmark Black](/wordmark/wordmark-black.svg)
@@ -86,6 +84,5 @@ GlitchSecure Purple
 ## Fonts
 
 - [Inter](https://rsms.me/inter/)
-- [Gothic A1](https://fonts.google.com/specimen/Gothic+A1)
 - [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
 - [Heroicons](https://heroicons.com/)

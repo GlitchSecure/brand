@@ -23,7 +23,7 @@ This repository contains resources for the GlitchSecure brand such as logos, ico
 
 ![GlitchSecure Logo White](/icon/icon-white.svg)
 
-[View more sizes](/icon)
+[View all sizes, colours, and formats](/icon)
 
 ## Print
 
@@ -41,7 +41,7 @@ Coming soon
 
 Coming soon
 
-[View more sizes](/print)
+[View all sizes, colours, and formats](/print)
 
 
 ## Social Media
@@ -53,6 +53,15 @@ Coming soon
 ## Wallpaper
 
 ![GlitchSecure Graph Desktop Wallpaper](/wallpapers/glitchsecure-graph.png)
+
+## Mascot
+
+"Glitch the cat": A mischievous little glitch in the system, taking down systems at the swipe of a paw.
+
+![Glitch The Cat](/mascot/glitch-the-cat.png)
+
+[View all sizes, colours, and formats](/mascot)
+
 
 ## Product Screenshots
 
